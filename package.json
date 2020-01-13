@@ -1,0 +1,27 @@
+{
+  "name": "service-url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.2.4",
+    "express": "^4.17.1",
+    "is-url": "^1.2.4",
+    "mongoose": "^5.8.6",
+    "redis": "^2.8.0",
+    "shortid": "^2.2.15",
+    "url-exists": "^1.0.3",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
