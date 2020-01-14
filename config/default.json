@@ -1,5 +1,5 @@
 {
-  //"mongoURI": "mongodb+srv://santo-pat:asdf9876/test?retryWrites=true&w=majority",
-  "mongoURI": "mongodb://mongo:27017/service-url",
-  "baseUrl": "http://pocket-url"
+  "mongoURI": "mongodb+srv://santo-pat:DQFOKJZJ69VdrET3@cluster0-scmtx.gcp.mongodb.net/test?retryWrites=true&w=majority",
+  // "mongoURI": "mongodb://mongo:27017/service-url",
+  "baseUrl": "https://pocket-url.herokuapp.com"
 }
