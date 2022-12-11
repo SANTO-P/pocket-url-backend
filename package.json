@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "config": "^3.2.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "is-url": "^1.2.4",
     "mongoose": "^5.8.6",
     "redis": "^2.8.0",
